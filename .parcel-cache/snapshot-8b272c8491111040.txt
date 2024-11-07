@@ -1,5 +1,5 @@
 5990
-38C:\Users\HOME\Desktop\pra\package.json133754239563434013 0
+38C:\Users\HOME\Desktop\pra\package.json133754371771341546 0
 83C:\Users\HOME\Desktop\pra\node_modules\react\cjs\react.shared-subset.development.js133754159463422798 0
 48C:\Users\HOME\Desktop\pra\node_modules\is-number133753727604895415 1
 69C:\Users\HOME\Desktop\pra\node_modules\semver\internal\identifiers.js133753727779539204 0
@@ -18,7 +18,7 @@
 63C:\Users\HOME\Desktop\pra\node_modules\abortcontroller-polyfill133753727771729170 1
 73C:\Users\HOME\Desktop\pra\node_modules\@parcel\reporter-cli\src\render.js133753727772209199 0
 80C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_object_without_properties133753728025235563 1
-30C:\Users\HOME\Desktop\pra\dist133754245866710965 1
+30C:\Users\HOME\Desktop\pra\dist133754250861180992 1
 69C:\Users\HOME\Desktop\pra\node_modules\@parcel\watcher\src\DirTree.hh133753727835709209 0
 60C:\Users\HOME\Desktop\pra\node_modules\css-tree\lib\index.js133753728074290878 0
 69C:\Users\HOME\Desktop\pra\node_modules\csso\node_modules\css-tree\cjs133753728027785576 1
@@ -31,7 +31,7 @@
 62C:\Users\HOME\Desktop\pra\node_modules\semver\functions\inc.js133753727783619235 0
 75C:\Users\HOME\Desktop\pra\node_modules\css-tree\cjs\syntax\atrule\index.cjs133753727974765889 0
 51C:\Users\HOME\Desktop\pra\node_modules\domutils\lib133753727829179158 1
-36C:\Users\HOME\Desktop\pra\.gitignore133753771609852390 0
+36C:\Users\HOME\Desktop\pra\.gitignore133754249901577853 0
 48C:\Users\HOME\Desktop\pra\node_modules\env-paths133753727634313584 1
 73C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\cjs\_create_class.cjs133753728068820850 0
 123C:\Users\HOME\Desktop\pra\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133753727852349174 0
@@ -1595,7 +1595,7 @@
 56C:\Users\HOME\Desktop\pra\node_modules\process\.eslintrc133754163305447342 0
 70C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\regions\AG.js133753727745629210 0
 78C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\features\dom-range.js133753728130676181 0
-41C:\Users\HOME\Desktop\pra\dist\index.html133754245866340986 0
+41C:\Users\HOME\Desktop\pra\dist\index.html133754250859921004 0
 87C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\features\css-default-pseudo.js133753728050710845 0
 84C:\Users\HOME\Desktop\pra\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133753727535778280 0
 69C:\Users\HOME\Desktop\pra\node_modules\csso\cjs\replace\Dimension.cjs133753727805899178 0
@@ -2837,7 +2837,7 @@
 80C:\Users\HOME\Desktop\pra\node_modules\csso\cjs\restructure\3-disjoinRuleset.cjs133753727626431869 0
 89C:\Users\HOME\Desktop\pra\node_modules\csso\node_modules\css-tree\cjs\tokenizer\utils.cjs133753728026815550 0
 94C:\Users\HOME\Desktop\pra\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133753727770959192 0
-48C:\Users\HOME\Desktop\pra\dist\index.7826abd7.js133754239577313974 0
+48C:\Users\HOME\Desktop\pra\dist\index.7826abd7.js133754250860900999 0
 88C:\Users\HOME\Desktop\pra\node_modules\dom-serializer\node_modules\entities\lib\index.js133753727649524169 0
 84C:\Users\HOME\Desktop\pra\node_modules\dom-serializer\node_modules\entities\lib\maps133753727741459205 1
 83C:\Users\HOME\Desktop\pra\node_modules\csso\node_modules\css-tree\lib\syntax\config133753728095726277 1
@@ -4279,7 +4279,7 @@
 104C:\Users\HOME\Desktop\pra\node_modules\@parcel\package-manager\test\fixtures\packages\peers\package.json133753727921264495 0
 85C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\features\getcomputedstyle.js133753728148916154 0
 78C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\features\gyroscope.js133753728157266223 0
-49C:\Users\HOME\Desktop\pra\dist\index.9e4c6fd2.css133754239577203987 0
+49C:\Users\HOME\Desktop\pra\dist\index.9e4c6fd2.css133754250859921004 0
 88C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\features\hardwareconcurrency.js133753728157326159 0
 56C:\Users\HOME\Desktop\pra\node_modules\@parcel\cache\src133753727772609225 1
 79C:\Users\HOME\Desktop\pra\node_modules\caniuse-lite\data\features\hashchange.js133753728157496156 0
@@ -4593,7 +4593,7 @@
 76C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_sliced_to_array_loose133753728028665568 1
 78C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_tagged_template_literal133753728029815548 1
 84C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_tagged_template_literal_loose133753728030275549 1
-52C:\Users\HOME\Desktop\pra\dist\index.7826abd7.js.map133754239582124005 0
+52C:\Users\HOME\Desktop\pra\dist\index.7826abd7.js.map133754250861101075 0
 60C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_throw133753728032525577 1
 63C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_to_array133753728036305579 1
 67C:\Users\HOME\Desktop\pra\node_modules\@swc\helpers\_\_to_primitive133753728037335558 1
@@ -5986,6 +5986,6 @@
 48C:\Users\HOME\Desktop\pra\dist\index.6bd02f5a.js133754183208327406 0
 52C:\Users\HOME\Desktop\pra\dist\index.81cc8be2.js.map133754245866671075 0
 53C:\Users\HOME\Desktop\pra\dist\index.9c8ce86a.css.map133754245866660989 0
-53C:\Users\HOME\Desktop\pra\dist\index.9e4c6fd2.css.map133754239579873964 0
+53C:\Users\HOME\Desktop\pra\dist\index.9e4c6fd2.css.map133754250860340979 0
 46C:\Users\HOME\Desktop\pra\dist\pra.3464ddca.js133754183208347472 0
 50C:\Users\HOME\Desktop\pra\dist\pra.3464ddca.js.map133754183208537464 0
