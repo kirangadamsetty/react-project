@@ -5,11 +5,12 @@
     //     </div>
     // </div>
     
-    
+    import React from "react"
+    import ReactDOM from "react-dom/client"
     
     const heading = React.createElement("div", {id : "parent"}, [
         React.createElement("div", {id : "children"}, [
-            React.createElement("h1", {id : "head"}, "I am h1 tag here"),
+            React.createElement("h1", {id : "head"}, "This is Namaste React"),
             React.createElement("h2", {id : "head2"}, "I am h2 tag here")
         ]
             ),
@@ -22,12 +23,6 @@
         
 
     );
-
-
-
-
-
-
 
 
     const container = ReactDOM.createRoot(document.getElementById("root"))
